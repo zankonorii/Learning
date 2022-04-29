@@ -1,4 +1,4 @@
-# This is list of articles and courses that i learning
+# This is list of articles and courses that I shoul  learning in 1401
 
 ### Courses : 
 - [ ] [Learing Docker by Hamed Farvardin (persian)](https://linux.tosinso.com/fa/videos/11432/%DA%A9%D8%A7%D9%85%D9%84%D8%AA%D8%B1%DB%8C%D9%86-%D8%AF%D9%88%D8%B1%D9%87-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%AF%D8%A7%DA%A9%D8%B1-(Docker)-%D8%B5%D9%81%D8%B1-%D8%AA%D8%A7-%D8%B5%D8%AF-%D9%82%D8%B3%D9%85%D8%AA-1-%D9%85%D8%B9%D8%B1%D9%81%DB%8C-%D8%AF%D8%A7%DA%A9%D8%B1)
@@ -47,6 +47,115 @@
 
 - [ ] [Learing Terraform by Hamed Farvardin (persian)](https://dblearn.ir/courses/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%da%a9%d8%a7%d8%b1%d8%a8%d8%b1%d8%af%db%8c-terraform/)
 
+- [ ] [python automation](https://www.youtube.com/watch?v=qkLRozfca50&list=PL5tVJtjoxKzqacJbIGbFbNTu7h2v4tsaF)
+
+- [ ] [DevOps Training Videos](https://www.youtube.com/watch?v=GJQ36pIYbic&list=PL9ooVrP1hQOE5ZDJJsnEXZ2upwK7aTYiX)
+  
+- [ ] [DevOps Tools](https://www.youtube.com/watch?v=3eiYRPeNKMs&list=PL9ooVrP1hQOGMf-ODuo15YFz2HZsWCO8y)
+  
+- [ ] [Docker Full Course](https://www.youtube.com/watch?v=RSIstPUiEjY&list=PL9ooVrP1hQOHUKuqGuiWLQoJ-LD25KxI5)
+  
+- [ ] [Kubernetes Full Course](https://www.youtube.com/watch?v=YXfLAWGTI38&list=PL9ooVrP1hQOF907pPru97cKY9nKwOrDTP)
+  
+- [ ] [Jenkins Tutorial for Beginners](https://www.youtube.com/watch?v=sR7RxYPvmJ8)
+  
+- [ ] [Jenkins Full Course in 4 Hours](https://www.youtube.com/watch?v=3a8KsB5wJDE&list=PL9ooVrP1hQOGM6eCsjnfAousUSvpqD8dW)
+  
+- [ ] [Chef Tutorial For Beginners](https://www.youtube.com/watch?v=LTIjUJEehDA&list=PL9ooVrP1hQOFDz4cy_X-oeDIrpfkqIIZw)
+  
+- [ ] [Puppet Tutorial for Beginners](https://www.youtube.com/watch?v=0yVJhb2VkVk&list=PL9ooVrP1hQOF4I3_X15HcvuQBILXm3DRR)
+  
+- [ ] [What is Git | What is GitHub | Git Tutorial | GitHub Tutorial | Devops Tutorial | Edureka](https://www.youtube.com/watch?v=xuB1Id2Wxak&list=PL9ooVrP1hQOGwtQOt8ZBlVjFlI-9Vr5hx)
+  
+- [ ] [Ansible Tutorial](https://www.youtube.com/watch?v=wpIgvy34BzU&list=PL9ooVrP1hQOE7DNnBow4p5SvIBdBIggC2)
+  
+- [ ] [Git Installation Tutorial for Beginners](https://www.youtube.com/watch?v=0yRkRiQUgWo&list=PL9ooVrP1hQOGqLGptTAXo1kYoB8AwV5yM)
+  
+- [ ] [AWS Tutorial For Beginners](https://www.youtube.com/watch?v=k1RI5locZE4&list=PL9ooVrP1hQOFWxRJcGdCot7AgJu29SVV3)
+  
+- [ ] [Azure Full Course](https://www.youtube.com/watch?v=tDuruX7XSac&list=PL9ooVrP1hQOHdFketT6JzY-71nBgIu-n0)
+  
+- [ ] [Google Cloud Platform Tutorial](https://www.youtube.com/watch?v=J73_IPP9nDs&list=PL9ooVrP1hQOFUm7TmkH1zk5xy75GAxV44)
+  
+- [ ] [Salesforce Full Course](https://www.youtube.com/watch?v=22aj-5Pbev4&list=PL9ooVrP1hQOHd5nCn2r6bTptxmC95gYns)
+  
+- [ ] [OpenStack Tutorial For Beginners](youtube.com/watch?v=eSRKnNgWrM0&list=PL9ooVrP1hQOEjZVLsNmAd0B0T6yCXPEN6)
+  
+- [ ] [Go Programming Language Tutorial](https://www.youtube.com/watch?v=Q0sKAMal4WQ&list=PL9ooVrP1hQOFZJHfU0yUg8cKuQ7WjCrfv)
+  
+- [ ] [Cyber Security Full Course In 8 Hours](https://www.youtube.com/watch?v=nzZkKoREEGo&list=PL9ooVrP1hQOGPQVeapGsJCktzIO4DtI4_)
+  
+- [ ] [Linux Full Course In 5 Hours](https://www.youtube.com/watch?v=Wgi-OfbP2Gw&list=PL9ooVrP1hQOH3SvcgkC4Qv2cyCebvs0Ik)
+  
+- [ ] [Web Development Full Course](https://www.youtube.com/watch?v=Q33KBiDriJY&list=PL9ooVrP1hQOEloRCBI97ZXkWUg6MJn0Yf)
+  
+- [ ] [Power BI Tutorial For Beginners ](https://www.youtube.com/watch?v=W0mG3KFR3Hw&list=PL9ooVrP1hQOElgtd2D_rU5McNbXofqMii)
+  
+- [ ] [Informatica Tutorial For Beginners](https://www.youtube.com/watch?v=u6oLXidGoqs&list=PL9ooVrP1hQOHQotG5nDJ1LjXiUDIgkeov)
+  
+- [ ] [How to Become a Certified Scrum Product Owner®](https://www.youtube.com/watch?v=dNtJyxg0tS4&list=PL9ooVrP1hQOGYYjPFP7L8IVxxkb2hksX3)
+  
+- [ ] [Blockchain in 3 Minutes](https://www.youtube.com/watch?v=9qfxLo1rt1Q&list=PL9ooVrP1hQOFJblZm3OdcVV-H6Z8V7HP1)
+  
+- [ ] [Ansible for Beginners to Advanced | DevOps Bootcamp](https://www.youtube.com/watch?v=lhFvMsy6VX8&list=PLy7NrYWoggjwwEpZO8sscD9X6EH39njz6)
+  
+- [ ] [Top 8 Docker Best Practices for using Docker in Production](https://www.youtube.com/watch?v=8vXoMqWgbQQ&list=PLy7NrYWoggjwk5fAX1q8gBNYrisYeHRxz)
+  
+- [ ] [What is DevOps? REALLY understand it | DevOps vs SRE](https://www.youtube.com/watch?v=0yWAtQ6wYNM&list=PLy7NrYWoggjwV7qC4kmgbgtFBsqkrsefG)
+  
+- [ ] [GitHub Actions Tutorial - Basic Concepts and CI/CD Pipeline with Docker](https://www.youtube.com/watch?v=R8_veQiYBjI&list=PLy7NrYWoggjzSIlwxeBbcgfAdYoxCIrM2)
+  
+- [ ] [Develop cloud-native software faster with DevSpace | DevOps Tool of the Month (1)](https://www.youtube.com/watch?v=kgfg8r6_zPk&list=PLy7NrYWoggjztwSskGu59O38gL5v0LjUT)
+  
+- [ ] [What is Kubernetes | Kubernetes explained in 15 mins](https://www.youtube.com/watch?v=VnvRFRk_51k&list=PLy7NrYWoggjziYQIDorlXjTvvwweTYoNC)
+  
+- [ ] [Managed Kubernetes Cluster explained | Kubernetes on Cloud (1/2)](https://www.youtube.com/watch?v=k-V3_zxRasM&list=PLy7NrYWoggjxqLwqmbE-gGuxpo0nWZqCi)
+  
+- [ ] [Complete Application Deployment using Kubernetes Components](https://www.youtube.com/watch?v=EQNO_kM96Mo&list=PLy7NrYWoggjy3urR5g7BLJiNjLtQcVckT)
+  
+- [ ] [Run Jenkins in Docker Container - Jenkins Pipeline Tutorial for Beginners](https://www.youtube.com/watch?v=pMO26j2OUME&list=PLy7NrYWoggjw_LIiDK1LXdNN82uYuuuiC)
+  
+- [ ] [What is Docker? Docker container concept explained](https://www.youtube.com/watch?v=jPdIRX6q4jA&list=PLy7NrYWoggjwPggqtFsI_zMAwvG0SqYCb)
+  
+- [ ] [Kubernetes Operator simply explained in 10 mins](https://www.youtube.com/watch?v=ha3LjlD6g7g&list=PLy7NrYWoggjw0OMxUDIImjWQjM7qZWn_R)
+  
+- [ ] [How Prometheus Monitoring works](youtube.com/watch?v=h4Sl21AKiDg&list=PLy7NrYWoggjxCF3av5JKwyG7FFF9eLeL4)
+  
+- [ ] [JavaScript DOM Crash Course](https://www.youtube.com/watch?v=0ik6X4DJKCc&list=PLillGF-RfqbYE6Ik_EuXA2iZFcE082B3s)
+  
+- [ ] [Building a GraphQL Server](https://www.youtube.com/watch?v=PEcJxkylcRM&list=PLillGF-RfqbYZty73_PHBqKRDnv7ikh68)
+  
+- [ ] [Learn The MERN Stack - Express & MongoDB Rest API](https://www.youtube.com/watch?v=-0exw-9YJBo&list=PLillGF-RfqbbQeVSccR9PGKHzPJSWqcsm)
+  
+- [ ] [GraphQL With React & Apollo](https://www.youtube.com/watch?v=SEMTj8w04Z8&list=PLillGF-RfqbZrjw48EXLdM4dsOhURCLZx)
+  
+- [ ] [Python Flask From Scratch](https://www.youtube.com/watch?v=zRwy8gtgJ1A&list=PLillGF-RfqbbbPz6GSEM9hLQObuQjNoj_)
+  
+- [ ] [MEAN Stack Front To Back](https://www.youtube.com/watch?v=uONz0lEWft0&list=PLillGF-RfqbZMNtaOXJQiDebNXjVapWPZ)
+  
+- [ ] [Zend Framework 2](https://www.youtube.com/watch?v=NJVS5yt5fHw&list=PLillGF-RfqbYl4mB0oZA1tSh7tJr78Zzh)
+  
+- [ ] [Building a Symfony 3 App](https://www.youtube.com/watch?v=HchMW8EhWPU&list=PLillGF-RfqbZg1_XTHyrn9kHVLy-3ZXLt)
+  
+- [ ] [Building An App With FuelPHP](https://www.youtube.com/watch?v=B0ZG3Mhzml4&list=PLillGF-RfqbbN1Iqlg5-bM1r50GLntJ8g)
+  
+- [ ] [CakePHP](https://www.youtube.com/watch?v=747K6W40ur0&list=PLillGF-RfqbbObywQ2KOugFDL9F_k4yLr)
+  
+- [ ] [Ubuntu Server 14.04 Setup](youtube.com/watch?v=jWmCcRCU-_w&list=PLillGF-RfqbbgNtw__dGpFqx6AebRcjSm)
+  
+- [ ] []()
+  
+- [ ] []()
+  
+- [ ] []()
+  
+- [ ] []()
+  
+- [ ] []()
+  
+- [ ] []()
+  
+- [ ] []()
 
 ### Articles : 
 
